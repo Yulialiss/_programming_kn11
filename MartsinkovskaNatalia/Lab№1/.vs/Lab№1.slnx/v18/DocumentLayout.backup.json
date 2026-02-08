@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\_programming_kn11\\MartsinkovskaNatalia\\Lab\u21161\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D673320-5A41-4687-83BF-143C6C76A5A9}|Lab\u21161\\Lab\u21161.vcxproj|C:\\Users\\PC\\_programming_kn11\\MartsinkovskaNatalia\\Lab\u21161\\Lab\u21161\\Lab\u21161.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D673320-5A41-4687-83BF-143C6C76A5A9}|Lab\u21161\\Lab\u21161.vcxproj|solutionrelative:Lab\u21161\\Lab\u21161.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab\u21161.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\_programming_kn11\\MartsinkovskaNatalia\\Lab\u21161\\Lab\u21161\\Lab\u21161.cpp",
+              "RelativeDocumentMoniker": "Lab\u21161\\Lab\u21161.cpp",
+              "ToolTip": "C:\\Users\\PC\\_programming_kn11\\MartsinkovskaNatalia\\Lab\u21161\\Lab\u21161\\Lab\u21161.cpp",
+              "RelativeToolTip": "Lab\u21161\\Lab\u21161.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T21:58:38.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

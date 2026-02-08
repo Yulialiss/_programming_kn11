@@ -14,9 +14,9 @@ int main() {
     cin >> variant;
 
     cout << "\n============================\n";
-    cout << "       Lab 1: First C++ Program\n";
-    cout << "       Variant: " << variant << "\n";
-    cout << "       Student: " << name << "\n";
+    cout << "   Lab 1: First C++ Program\n";
+    cout << "   Variant: " << variant << "\n";
+    cout << "   Student: " << name << "\n";
     cout << "============================\n";
 
     cout << "Привіт, " << name << "\n";

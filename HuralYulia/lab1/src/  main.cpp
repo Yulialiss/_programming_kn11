@@ -7,10 +7,10 @@ int main() {
     string name;
     int variant;
 
-    cout << "Введіть своє ім'я та прізвище-> ";
+    cout << "Enter your first and last name -> ";
     cin>> name;
 
-    cout << "Введіть номер варіанту-> ";
+    cout << "Enter the variant number -> ";
     cin >> variant;
 
     cout << "\n============================\n";
@@ -19,7 +19,7 @@ int main() {
     cout << "   Student: " << name << "\n";
     cout << "============================\n";
 
-    cout << "Привіт, " << name << "\n";
+    cout << "Hello, " << name << "\n";
 
     return 0;
 }

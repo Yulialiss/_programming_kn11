@@ -8,7 +8,11 @@ int main() {
     int variant;
 
     cout << "Enter your first and last name -> ";
+<<<<<<< Updated upstream
     cin>> name;
+=======
+    cin >> name;
+>>>>>>> Stashed changes
 
     cout << "Enter the variant number -> ";
     cin >> variant;

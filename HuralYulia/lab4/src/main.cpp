@@ -1,40 +1,26 @@
-
 #include <iostream>
-#include <cmath>
+#include <string>
 using namespace std;
 
 int main() {
+    int a[] = { 1233, 3412, 5566, 2020, 1111, 9876 };
+    int n = 6;
 
-    double a = 0.7, b = 3, h = 0.1;
-    double product = 1;
-    int count = 0;
+    cout << "Є такі числа: ";
+    for (int i = 0; i < n; i++) {
+        cout << a[i] << " ";
+    }
+    cout << endl;
+    cout << "-------------------------------------------------------------------" << endl;
 
-    cout << "-----------------------------" << endl;
-    cout << "     x\t\t y" << endl;
-    cout << "-----------------------------" << endl;
+    for (int i = 0; i < n; i++) {
+        string s = to_string(a[i]);
 
-    for (double x = a; x <= b; x += h) {
-
-        double y = 2 * cos(x) - 1;
-
-        cout << x << "\t" << y << endl;
-
-        if (y < 0) {
-            product *= y;
-            count++;
+        if ((s[0] - '0') + (s[1] - '0') == (s[2] - '0') + (s[3] - '0')) {
+            cout << "З них лише у цих сума перших чисел == останніх чисел-> " << a[i] << endl;
         }
     }
 
-    cout << "-----------------------------" << endl;
-
-    cout << "Negative count ->" << count << endl;
-
-    if (count > 0)
-        cout << "Product ->" << product << endl;
-    else
-        cout << "No negative values." << endl;
-
-    cout << "-----------------------------" << endl;
 
     return 0;
 }
